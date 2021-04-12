@@ -23,7 +23,7 @@ The application I am developing is a stock screener to help individuals find and
 - MySQL
 - Hibernate
 - Thymeleaf templates
-- 
+
 ### What I'll Have to Learn
 I will have to learn how to perform web scraping to access stock data and how to connect the front-end and back-end technologies we have been using to-date.
 
