@@ -8,15 +8,14 @@ For this assignment, you'll create some initial plans for your project.
 
 ### Wireframes
 
-Include at least 3 wireframes here, adding images or files to your repository as necessary. Format them as a bulleted/unordered list with links to the files.
-
 * [Home Page and Profile Page](https://github.com/jam2767/liftoff-assignments/blob/master/P3-Project_Planning/homePage_userProfile.jpg)
 * [Screener Page and Stock Page](https://github.com/jam2767/liftoff-assignments/blob/master/P3-Project_Planning/Screener_Stock.jpg)
+* [Portfolio Page](https://github.com/jam2767/liftoff-assignments/blob/master/P3-Project_Planning/Portfolio.JPG)
 
 ### Project Tracker
 
-Include a link to your public Trello board. Be sure you have user stories added for at least your first 2-week sprint.
+[Trello Board](https://trello.com/b/G6SmINgJ/liftoff-project)
 
 ### Project Repo Link
 
-Include a link to your project on GitHub.
+[BullPick Stock Screener - Github](https://github.com/jam2767/BullPick-Stock-Screener)
