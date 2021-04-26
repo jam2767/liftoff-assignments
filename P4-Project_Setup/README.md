@@ -7,4 +7,4 @@ This assignment will get you set up and rolling with a basic project. By the end
 ## Submission Instructions
 
 ### Project Repository
-[BullPick Stock Screener repository] (https://github.com/jam2767/BullPick-Stock-Screener)
+[BullPick Stock Screener repository](https://github.com/jam2767/BullPick-Stock-Screener)
